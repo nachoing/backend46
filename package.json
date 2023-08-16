@@ -1,0 +1,20 @@
+{
+  "name": "backend46",
+  "version": "1.0.0",
+  "description": "ptactica backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "no "
+  },
+  "keywords": [
+    "request",
+    "response",
+    "GET",
+    "PODT",
+    "PUT",
+    "patch",
+    "delete"
+  ],
+  "author": "juan ighnacio luquez",
+  "license": "ISC"
+}
